@@ -1,0 +1,10 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const REMEMBER = "REMEMBER";
+export const REMOVE_LOGIN = "REMOVE_LOGIN";
+export const TASK_TOOL_TIP = "TASK_TOOL_TIP";
+export const ADD_TASK = "ADD_TASK";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const DELETE_TASK = "DELETE_TASK";
+export const MARK_COMPLETE = "MARK_COMPLETE";
+export const RESET_LIST = "RESET_LIST";
